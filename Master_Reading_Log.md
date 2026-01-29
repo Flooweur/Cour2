@@ -1,0 +1,30 @@
+# Master Reading Log
+
+## Rhetoric (The Theory of Persuasion)
+- [ ] *Rhetoric* - Aristotle (Year 1)
+- [ ] *De Oratore* - Cicero (Year 2)
+- [ ] *Institutio Oratoria* (Selected Readings) - Quintilian (Year 2)
+- [ ] *Thank You for Arguing* - Jay Heinrichs (Year 1 - Modern Primer)
+- [ ] *The Art of Rhetoric* - Hobbs (Year 3)
+
+## Acting (The Craft of Truth)
+- [ ] *An Actor Prepares* - Constantin Stanislavski (Year 1)
+- [ ] *Sanford Meisner on Acting* - Sanford Meisner (Year 2)
+- [ ] *Respect for Acting* - Uta Hagen (Year 1)
+- [ ] *The Actor's Art and Craft* - William Esper (Year 2)
+- [ ] *Impro* - Keith Johnstone (Year 4)
+- [ ] *To the Actor* - Michael Chekhov (Year 3)
+- [ ] *The Empty Space* - Peter Brook (Year 5)
+
+## Debate & Logic (The Sword of Reason)
+- [ ] *The Debater's Guide* - Jon M. Ericson (Year 1)
+- [ ] *Crimes Against Logic* - Jamie Whyte (Year 1)
+- [ ] *Thinking, Fast and Slow* - Daniel Kahneman (Year 2 - Psychology of belief)
+- [ ] *Influence: The Psychology of Persuasion* - Robert Cialdini (Year 2)
+
+## Plays & Speeches (The Canon)
+- [ ] *Hamlet* - Shakespeare (Year 3)
+- [ ] *Julius Caesar* - Shakespeare (Year 3)
+- [ ] *Death of a Salesman* - Arthur Miller (Year 2)
+- [ ] *Glengarry Glen Ross* - David Mamet (Year 4)
+- [ ] *Speeches that Changed the World* (Anthology) (Year 1-5)
